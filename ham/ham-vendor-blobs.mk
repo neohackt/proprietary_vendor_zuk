@@ -16,7 +16,8 @@
 
 ifeq ($(QCPATH),)
 PRODUCT_COPY_FILES += \
-    vendor/zuk/ham/proprietary/bin/btnvtool:system/bin/btnvtool \
+    vendor/zuk/ham/proprietary/bin/busybox:system/bin/busybox \
+	vendor/zuk/ham/proprietary/bin/btnvtool:system/bin/btnvtool \
     vendor/zuk/ham/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
     vendor/zuk/ham/proprietary/vendor/lib/libbtnv.so:system/vendor/lib/libbtnv.so \
     vendor/zuk/ham/proprietary/bin/mpdecision:system/bin/mpdecision \
