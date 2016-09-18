@@ -104,7 +104,8 @@ PRODUCT_COPY_FILES += \
     vendor/zuk/ham/proprietary/vendor/lib/libxtadapter.so:system/vendor/lib/libxtadapter.so \
     vendor/zuk/ham/proprietary/vendor/lib/libquipc_os_api.so:system/vendor/lib/libquipc_os_api.so \
     vendor/zuk/ham/proprietary/vendor/lib/libxtwifi_ulp_adaptor.so:system/vendor/lib/libxtwifi_ulp_adaptor.so \
-    vendor/zuk/ham/proprietary/vendor/lib/libulp2.so:system/vendor/lib/libulp2.so \
+    vendor/zuk/ham/proprietary/vendor/lib/libuiblur.so:system/vendor/lib/libuiblur.so \
+	vendor/zuk/ham/proprietary/vendor/lib/libulp2.so:system/vendor/lib/libulp2.so \
     vendor/zuk/ham/proprietary/vendor/lib/egl/eglsubAndroid.so:system/vendor/lib/egl/eglsubAndroid.so \
     vendor/zuk/ham/proprietary/vendor/lib/egl/libEGL_adreno.so:system/vendor/lib/egl/libEGL_adreno.so \
     vendor/zuk/ham/proprietary/vendor/lib/egl/libGLESv1_CM_adreno.so:system/vendor/lib/egl/libGLESv1_CM_adreno.so \
